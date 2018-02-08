@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
   <entry>
+    <id>blog/day-27-raw-noodle</id>
+      <title>Day 27 - The Raw Noodle</title>
+      <author>
+        <name>
+          Marshall McInerney (Chugging olive oil)
+        </name>
+
+      </author>
+      <updated>
+        Tue Feb 06 2018 00:00:00 GMT+0000 (UTC)
+      </updated>
+  </entry>
+  <entry>
+    <id>blog/day-26-bada-bing</id>
+      <title>Day 26 - Bada Bing Bada Boom</title>
+      <author>
+        <name>
+          Marshall McInerney (Back from the brink)
+        </name>
+
+      </author>
+      <updated>
+        Mon Feb 05 2018 00:00:00 GMT+0000 (UTC)
+      </updated>
+  </entry>
+  <entry>
     <id>blog/interlude-intake-optimization</id>
       <title>Interlude: Optimization of a Simple Power Cube Intake</title>
       <author>
