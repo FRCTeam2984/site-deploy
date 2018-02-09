@@ -1,391 +1,398 @@
-<?xml version="1.0" encoding="utf-8"?>
-  <entry>
-    <id>blog/day-27-raw-noodle</id>
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>La Jolla High School Robotics</title>
+  <link>http://www.ljrobotics.org</link>
+  <description>Webpage of the Vikings</description>
+  <item>
+    <title>Link to the blog</title>
+  <guid isPermaLink="false">http:/ljrobotics.org/blog/
+  </guid>
+</item>
+  <item>
+
+      <title>Day 29 - Just Bummin&#x27; Around</title>
+      <author>ljhsvikingrobotics@gmail.com (Marshall McInerney (Cowboy at heart))
+
+      </author>
+
+
+      <link>http://ljrobotics.org/blog/day-29-just-bummin
+    </link>
+  </item>
+
+  <item>
+
+      <title>Day 28 - Queen of Hearts</title>
+      <author>ljhsvikingrobotics@gmail.com (Tanvir Hussain (Dr.Sir Drive Coach))
+
+      </author>
+
+
+      <link>http://ljrobotics.org/blog/day-28-queen-of-hearts
+    </link>
+  </item>
+
+  <item>
+
       <title>Day 27 - The Raw Noodle</title>
-      <author>
-        <name>
-          Marshall McInerney (Chugging olive oil)
-        </name>
+      <author>ljhsvikingrobotics@gmail.com (Marshall McInerney (Chugging olive oil))
 
       </author>
-      <updated>
-        Tue Feb 06 2018 00:00:00 GMT+0000 (UTC)
-      </updated>
-  </entry>
-  <entry>
-    <id>blog/day-26-bada-bing</id>
+
+
+      <link>http://ljrobotics.org/blog/day-27-raw-noodle
+    </link>
+  </item>
+
+  <item>
+
       <title>Day 26 - Bada Bing Bada Boom</title>
-      <author>
-        <name>
-          Marshall McInerney (Back from the brink)
-        </name>
+      <author>ljhsvikingrobotics@gmail.com (Marshall McInerney (Back from the brink))
 
       </author>
-      <updated>
-        Mon Feb 05 2018 00:00:00 GMT+0000 (UTC)
-      </updated>
-  </entry>
-  <entry>
-    <id>blog/interlude-intake-optimization</id>
+
+
+      <link>http://ljrobotics.org/blog/day-26-bada-bing
+    </link>
+  </item>
+
+  <item>
+
       <title>Interlude: Optimization of a Simple Power Cube Intake</title>
-      <author>
-        <name>
-          Rich Apodaca
-        </name>
+      <author>ljhsvikingrobotics@gmail.com (Rich Apodaca)
 
       </author>
-      <updated>
-        Sat Feb 03 2018 00:00:00 GMT+0000 (UTC)
-      </updated>
-  </entry>
-  <entry>
-    <id>blog/day-25-car-sage</id>
+
+
+      <link>http://ljrobotics.org/blog/interlude-intake-optimization
+    </link>
+  </item>
+
+  <item>
+
       <title>Day 25 Car Sage</title>
-      <author>
-        <name>
-          Tanvir Hussain (Sad without Marshall)
-        </name>
+      <author>ljhsvikingrobotics@gmail.com (Tanvir Hussain (Sad without Marshall))
 
       </author>
-      <updated>
-        Sat Feb 03 2018 00:00:00 GMT+0000 (UTC)
-      </updated>
-  </entry>
-  <entry>
-    <id>blog/day-24-019-clearance</id>
+
+
+      <link>http://ljrobotics.org/blog/day-25-car-sage
+    </link>
+  </item>
+
+  <item>
+
       <title>Day 24 - .019&#x27;&#x27; Clearance</title>
-      <author>
-        <name>
-          Tanvir Hussain (Lost without Marshall)
-        </name>
+      <author>ljhsvikingrobotics@gmail.com (Tanvir Hussain (Lost without Marshall))
 
       </author>
-      <updated>
-        Fri Feb 02 2018 00:00:00 GMT+0000 (UTC)
-      </updated>
-  </entry>
-  <entry>
-    <id>blog/day-23-goals-in-view</id>
+
+
+      <link>http://ljrobotics.org/blog/day-24-019-clearance
+    </link>
+  </item>
+
+  <item>
+
       <title>Day 23 - Goals In View</title>
-      <author>
-        <name>
-          Tanvir Hussain (Watcher of Blogs)
-        </name>
+      <author>ljhsvikingrobotics@gmail.com (Tanvir Hussain (Watcher of Blogs))
 
       </author>
-      <updated>
-        Thu Feb 01 2018 00:00:00 GMT+0000 (UTC)
-      </updated>
-  </entry>
-  <entry>
-    <id>blog/day-22-lots-of-trig</id>
+
+
+      <link>http://ljrobotics.org/blog/day-23-goals-in-view
+    </link>
+  </item>
+
+  <item>
+
       <title>Day 22 - Lots of Trig</title>
-      <author>
-        <name>
-          Tanvir Hussain (Trigonometry Master)
-        </name>
+      <author>ljhsvikingrobotics@gmail.com (Tanvir Hussain (Trigonometry Master))
 
       </author>
-      <updated>
-        Wed Jan 31 2018 00:00:00 GMT+0000 (UTC)
-      </updated>
-  </entry>
-  <entry>
-    <id>blog/day-21-headless-driver</id>
+
+
+      <link>http://ljrobotics.org/blog/day-22-lots-of-trig
+    </link>
+  </item>
+
+  <item>
+
       <title>Day 21 - Headless Driver</title>
-      <author>
-        <name>
-          Tanvir Hussain (Missing Marshall)
-        </name>
+      <author>ljhsvikingrobotics@gmail.com (Tanvir Hussain (Missing Marshall))
 
       </author>
-      <updated>
-        Tue Jan 30 2018 00:00:00 GMT+0000 (UTC)
-      </updated>
-  </entry>
-  <entry>
-    <id>blog/day-20-all-quiet-on-the-western-front</id>
+
+
+      <link>http://ljrobotics.org/blog/day-21-headless-driver
+    </link>
+  </item>
+
+  <item>
+
       <title>Day 20 - All Quiet on the Western Front</title>
-      <author>
-        <name>
-          Tanvir Hussain (The Truest King)
-        </name>
+      <author>ljhsvikingrobotics@gmail.com (Tanvir Hussain (The Truest King))
 
       </author>
-      <updated>
-        Mon Jan 29 2018 00:00:00 GMT+0000 (UTC)
-      </updated>
-  </entry>
-  <entry>
-    <id>blog/day-19-troubles-in-paradise</id>
+
+
+      <link>http://ljrobotics.org/blog/day-20-all-quiet-on-the-western-front
+    </link>
+  </item>
+
+  <item>
+
       <title>Day 19 - Troubles in Paradise</title>
-      <author>
-        <name>
-          Marshall McInerney (The True King)
-        </name>
+      <author>ljhsvikingrobotics@gmail.com (Marshall McInerney (The True King))
 
       </author>
-      <updated>
-        Sat Jan 27 2018 00:00:00 GMT+0000 (UTC)
-      </updated>
-  </entry>
-  <entry>
-    <id>blog/day-18-defiance</id>
+
+
+      <link>http://ljrobotics.org/blog/day-19-troubles-in-paradise
+    </link>
+  </item>
+
+  <item>
+
       <title>Day 18 - Defiance</title>
-      <author>
-        <name>
-          Marshall McInerney (Your Pilot and Co-Pilot)
-        </name>
+      <author>ljhsvikingrobotics@gmail.com (Marshall McInerney (Your Pilot and Co-Pilot))
 
       </author>
-      <updated>
-        Fri Jan 26 2018 00:00:00 GMT+0000 (UTC)
-      </updated>
-  </entry>
-  <entry>
-    <id>blog/day-17-one-meal-per-team</id>
+
+
+      <link>http://ljrobotics.org/blog/day-18-defiance
+    </link>
+  </item>
+
+  <item>
+
       <title>Day 17 - One Meal Per Team</title>
-      <author>
-        <name>
-          Tanvir Hussain (The Last Member)
-        </name>
+      <author>ljhsvikingrobotics@gmail.com (Tanvir Hussain (The Last Member))
 
       </author>
-      <updated>
-        Thu Jan 25 2018 00:00:00 GMT+0000 (UTC)
-      </updated>
-  </entry>
-  <entry>
-    <id>blog/day-16-liberate-a-nut</id>
+
+
+      <link>http://ljrobotics.org/blog/day-17-one-meal-per-team
+    </link>
+  </item>
+
+  <item>
+
       <title>Day 16 - Liberate the Nut</title>
-      <author>
-        <name>
-          Tanvir Hussain (Your Blogkeeper for the Day)
-        </name>
+      <author>ljhsvikingrobotics@gmail.com (Tanvir Hussain (Your Blogkeeper for the Day))
 
       </author>
-      <updated>
-        Wed Jan 24 2018 00:00:00 GMT+0000 (UTC)
-      </updated>
-  </entry>
-  <entry>
-    <id>blog/day-15-moderate-dissapointment</id>
+
+
+      <link>http://ljrobotics.org/blog/day-16-liberate-a-nut
+    </link>
+  </item>
+
+  <item>
+
       <title>Day 15 - Suspicious Disappointment</title>
-      <author>
-        <name>
-          Marshall McInerney (Race member)
-        </name>
+      <author>ljhsvikingrobotics@gmail.com (Marshall McInerney (Race member))
 
       </author>
-      <updated>
-        Tue Jan 23 2018 00:00:00 GMT+0000 (UTC)
-      </updated>
-  </entry>
-  <entry>
-    <id>blog/day-14-mentos-and-cough-syrup</id>
+
+
+      <link>http://ljrobotics.org/blog/day-15-moderate-dissapointment
+    </link>
+  </item>
+
+  <item>
+
       <title>Day 14 - Mentos and Cough Syrup</title>
-      <author>
-        <name>
-          Marshall McInerney (Sickly)
-        </name>
+      <author>ljhsvikingrobotics@gmail.com (Marshall McInerney (Sickly))
 
       </author>
-      <updated>
-        Mon Jan 22 2018 00:00:00 GMT+0000 (UTC)
-      </updated>
-  </entry>
-  <entry>
-    <id>blog/day-13-justiceserved</id>
+
+
+      <link>http://ljrobotics.org/blog/day-14-mentos-and-cough-syrup
+    </link>
+  </item>
+
+  <item>
+
       <title>Day 13 - Justice Served</title>
-      <author>
-        <name>
-          Marshall McInerney (With more Money)
-        </name>
+      <author>ljhsvikingrobotics@gmail.com (Marshall McInerney (With more Money))
 
       </author>
-      <updated>
-        Sat Jan 20 2018 00:00:00 GMT+0000 (UTC)
-      </updated>
-  </entry>
-  <entry>
-    <id>blog/day-12-rainy-day-blues</id>
+
+
+      <link>http://ljrobotics.org/blog/day-13-justiceserved
+    </link>
+  </item>
+
+  <item>
+
       <title>Day 12 - Rainy Day Blues</title>
-      <author>
-        <name>
-          Marshall McInerney (Alone but not really)
-        </name>
+      <author>ljhsvikingrobotics@gmail.com (Marshall McInerney (Alone but not really))
 
       </author>
-      <updated>
-        Fri Jan 19 2018 00:00:00 GMT+0000 (UTC)
-      </updated>
-  </entry>
-  <entry>
-    <id>blog/day-11-adventures</id>
+
+
+      <link>http://ljrobotics.org/blog/day-12-rainy-day-blues
+    </link>
+  </item>
+
+  <item>
+
       <title>Day 11 - Adventures of Big Boy Jr.</title>
-      <author>
-        <name>
-          Marshall McInerney (Blocky Sr.)
-        </name>
+      <author>ljhsvikingrobotics@gmail.com (Marshall McInerney (Blocky Sr.))
 
       </author>
-      <updated>
-        Thu Jan 18 2018 00:00:00 GMT+0000 (UTC)
-      </updated>
-  </entry>
-  <entry>
-    <id>blog/day-10-organized-chaos</id>
+
+
+      <link>http://ljrobotics.org/blog/day-11-adventures
+    </link>
+  </item>
+
+  <item>
+
       <title>Day 10 - 0rganized Chaos</title>
-      <author>
-        <name>
-          Marshall McInerney (The Buffest Communications Member)
-        </name>
+      <author>ljhsvikingrobotics@gmail.com (Marshall McInerney (The Buffest Communications Member))
 
       </author>
-      <updated>
-        Wed Jan 17 2018 00:00:00 GMT+0000 (UTC)
-      </updated>
-  </entry>
-  <entry>
-    <id>blog/day-9-independant-arms</id>
+
+
+      <link>http://ljrobotics.org/blog/day-10-organized-chaos
+    </link>
+  </item>
+
+  <item>
+
       <title>Day 9 - Independent Arms</title>
-      <author>
-        <name>
-          Tanvir Hussain and Marshall McInerney
-        </name>
+      <author>ljhsvikingrobotics@gmail.com (Tanvir Hussain and Marshall McInerney)
 
       </author>
-      <updated>
-        Tue Jan 16 2018 00:00:00 GMT+0000 (UTC)
-      </updated>
-  </entry>
-  <entry>
-    <id>blog/day-8-electrons-and-croissants</id>
+
+
+      <link>http://ljrobotics.org/blog/day-9-independant-arms
+    </link>
+  </item>
+
+  <item>
+
       <title>Day 8 - Electrons and Croissants</title>
-      <author>
-        <name>
-          Tanvir Hussain
-        </name>
+      <author>ljhsvikingrobotics@gmail.com (Tanvir Hussain)
 
       </author>
-      <updated>
-        Mon Jan 15 2018 00:00:00 GMT+0000 (UTC)
-      </updated>
-  </entry>
-  <entry>
-    <id>blog/day-7-hindenbot</id>
+
+
+      <link>http://ljrobotics.org/blog/day-8-electrons-and-croissants
+    </link>
+  </item>
+
+  <item>
+
       <title>Day 7 - hindenbot</title>
-      <author>
-        <name>
-          Marshall McInerney and Tanvir Hussain
-        </name>
+      <author>ljhsvikingrobotics@gmail.com (Marshall McInerney and Tanvir Hussain)
 
       </author>
-      <updated>
-        Sat Jan 13 2018 00:00:00 GMT+0000 (UTC)
-      </updated>
-  </entry>
-  <entry>
-    <id>blog/day-6-maps-of-the-town</id>
+
+
+      <link>http://ljrobotics.org/blog/day-7-hindenbot
+    </link>
+  </item>
+
+  <item>
+
       <title>Day 6 - Maps Of The Town</title>
-      <author>
-        <name>
-          Marshall McInerney and Tanvir Hussain
-        </name>
+      <author>ljhsvikingrobotics@gmail.com (Marshall McInerney and Tanvir Hussain)
 
       </author>
-      <updated>
-        Sat Jan 13 2018 00:00:00 GMT+0000 (UTC)
-      </updated>
-  </entry>
-  <entry>
-    <id>blog/day-5-content-workers</id>
+
+
+      <link>http://ljrobotics.org/blog/day-6-maps-of-the-town
+    </link>
+  </item>
+
+  <item>
+
       <title>Day 5 - Content Workers</title>
-      <author>
-        <name>
-          Marshall McInerney and Tanvir Hussain
-        </name>
+      <author>ljhsvikingrobotics@gmail.com (Marshall McInerney and Tanvir Hussain)
 
       </author>
-      <updated>
-        Sat Jan 13 2018 00:00:00 GMT+0000 (UTC)
-      </updated>
-  </entry>
-  <entry>
-    <id>blog/day-4-crooked-plans</id>
+
+
+      <link>http://ljrobotics.org/blog/day-5-content-workers
+    </link>
+  </item>
+
+  <item>
+
       <title>Day 4 - Crooked Plans</title>
-      <author>
-        <name>
-          Marshall McInerney and Tanvir Hussain
-        </name>
+      <author>ljhsvikingrobotics@gmail.com (Marshall McInerney and Tanvir Hussain)
 
       </author>
-      <updated>
-        Sat Jan 13 2018 00:00:00 GMT+0000 (UTC)
-      </updated>
-  </entry>
-  <entry>
-    <id>blog/day-3-frankenstein&#x27;s-robot</id>
+
+
+      <link>http://ljrobotics.org/blog/day-4-crooked-plans
+    </link>
+  </item>
+
+  <item>
+
       <title>Day 3 - Frankenstein&#x27;s Robot</title>
-      <author>
-        <name>
-          Marshall McInerney and Tanvir Hussain
-        </name>
+      <author>ljhsvikingrobotics@gmail.com (Marshall McInerney and Tanvir Hussain)
 
       </author>
-      <updated>
-        Sat Jan 13 2018 00:00:00 GMT+0000 (UTC)
-      </updated>
-  </entry>
-  <entry>
-    <id>blog/day-2-build-season-starts</id>
+
+
+      <link>http://ljrobotics.org/blog/day-3-frankenstein&#x27;s-robot
+    </link>
+  </item>
+
+  <item>
+
       <title>Day 2 - Build Season Starts</title>
-      <author>
-        <name>
-          Marshall McInerney and Tanvir Hussain
-        </name>
+      <author>ljhsvikingrobotics@gmail.com (Marshall McInerney and Tanvir Hussain)
 
       </author>
-      <updated>
-        Sat Jan 13 2018 00:00:00 GMT+0000 (UTC)
-      </updated>
-  </entry>
-  <entry>
-    <id>blog/day-1-power-up-2018-kickoff</id>
+
+
+      <link>http://ljrobotics.org/blog/day-2-build-season-starts
+    </link>
+  </item>
+
+  <item>
+
       <title>Day 1 - Power Up 2018 Kickoff</title>
-      <author>
-        <name>
-          Marshall McInerney, Tanvir Hussain
-        </name>
+      <author>ljhsvikingrobotics@gmail.com (Marshall McInerney, Tanvir Hussain)
 
       </author>
-      <updated>
-        Sat Jan 13 2018 00:00:00 GMT+0000 (UTC)
-      </updated>
-  </entry>
-  <entry>
-    <id>blog/cleanup</id>
+
+
+      <link>http://ljrobotics.org/blog/day-1-power-up-2018-kickoff
+    </link>
+  </item>
+
+  <item>
+
       <title>Cleanup Before the Season</title>
-      <author>
-        <name>
-          Tanvir Hussain
-        </name>
+      <author>ljhsvikingrobotics@gmail.com (Tanvir Hussain)
 
       </author>
-      <updated>
-        Sat Jan 13 2018 00:00:00 GMT+0000 (UTC)
-      </updated>
-  </entry>
-  <entry>
-    <id>blog/viking-vision</id>
+
+
+      <link>http://ljrobotics.org/blog/cleanup
+    </link>
+  </item>
+
+  <item>
+
       <title>Viking Vision</title>
-      <author>
-        <name>
-          Max Apodaca
-        </name>
+      <author>ljhsvikingrobotics@gmail.com (Max Apodaca)
 
       </author>
-      <updated>
-        Sun Nov 26 2017 10:00:00 GMT+0000 (UTC)
-      </updated>
-  </entry>
+
+
+      <link>http://ljrobotics.org/blog/viking-vision
+    </link>
+  </item>
+
+</channel>
+</rss>
