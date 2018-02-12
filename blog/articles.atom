@@ -12,6 +12,30 @@
 </item>
   <item>
 
+      <title>Day 31 - Conflux Bot</title>
+      <author>ljhsvikingrobotics@gmail.com (Tanvir Hussain (Joker of Worlds))
+
+      </author>
+
+
+      <link>http://ljrobotics.org/blog/day-31-thiccbot
+    </link>
+  </item>
+
+  <item>
+
+      <title>Day 30 - Rejection of the Highest order</title>
+      <author>ljhsvikingrobotics@gmail.com (Marshall McInerney (Ejected and dejected))
+
+      </author>
+
+
+      <link>http://ljrobotics.org/blog/day-30-rejection
+    </link>
+  </item>
+
+  <item>
+
       <title>Day 29 - Just Bummin&#x27; Around</title>
       <author>ljhsvikingrobotics@gmail.com (Marshall McInerney (Cowboy at heart))
 
@@ -60,18 +84,6 @@
 
   <item>
 
-      <title>Interlude: Optimization of a Simple Power Cube Intake</title>
-      <author>ljhsvikingrobotics@gmail.com (Rich Apodaca)
-
-      </author>
-
-
-      <link>http://ljrobotics.org/blog/interlude-intake-optimization
-    </link>
-  </item>
-
-  <item>
-
       <title>Day 25 Car Sage</title>
       <author>ljhsvikingrobotics@gmail.com (Tanvir Hussain (Sad without Marshall))
 
@@ -79,6 +91,18 @@
 
 
       <link>http://ljrobotics.org/blog/day-25-car-sage
+    </link>
+  </item>
+
+  <item>
+
+      <title>Interlude: Optimization of a Simple Power Cube Intake</title>
+      <author>ljhsvikingrobotics@gmail.com (Rich Apodaca)
+
+      </author>
+
+
+      <link>http://ljrobotics.org/blog/interlude-intake-optimization
     </link>
   </item>
 
