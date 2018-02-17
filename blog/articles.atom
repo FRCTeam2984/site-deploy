@@ -12,6 +12,42 @@
 </item>
   <item>
 
+      <title>Day 36 - Crazy Wrap</title>
+      <author>ljhsvikingrobotics@gmail.com (Tanvir Hussain (Same Day))
+
+      </author>
+
+
+      <link>http://ljrobotics.org/blog/day-36-crazy-wrap
+    </link>
+  </item>
+
+  <item>
+
+      <title>Day 35 - Problems</title>
+      <author>ljhsvikingrobotics@gmail.com (Tanvir Hussain (One Day After))
+
+      </author>
+
+
+      <link>http://ljrobotics.org/blog/day-35-problems
+    </link>
+  </item>
+
+  <item>
+
+      <title>Day 34 - The Arm will be Done</title>
+      <author>ljhsvikingrobotics@gmail.com (Tanvir Hussain (Two Days After))
+
+      </author>
+
+
+      <link>http://ljrobotics.org/blog/day-34-the-arm-will-be-done
+    </link>
+  </item>
+
+  <item>
+
       <title>Day 33 - I Want To Eat A Cloud</title>
       <author>ljhsvikingrobotics@gmail.com (Niki Hartman (Still spelled with one k))
 
@@ -108,18 +144,6 @@
 
   <item>
 
-      <title>Day 25 Car Sage</title>
-      <author>ljhsvikingrobotics@gmail.com (Tanvir Hussain (Sad without Marshall))
-
-      </author>
-
-
-      <link>http://ljrobotics.org/blog/day-25-car-sage
-    </link>
-  </item>
-
-  <item>
-
       <title>Interlude: Optimization of a Simple Power Cube Intake</title>
       <author>ljhsvikingrobotics@gmail.com (Rich Apodaca)
 
@@ -127,6 +151,18 @@
 
 
       <link>http://ljrobotics.org/blog/interlude-intake-optimization
+    </link>
+  </item>
+
+  <item>
+
+      <title>Day 25 Car Sage</title>
+      <author>ljhsvikingrobotics@gmail.com (Tanvir Hussain (Sad without Marshall))
+
+      </author>
+
+
+      <link>http://ljrobotics.org/blog/day-25-car-sage
     </link>
   </item>
 
