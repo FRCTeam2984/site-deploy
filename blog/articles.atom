@@ -72,13 +72,13 @@
 
   <item>
 
-      <title>Competition Day 0</title>
-      <author>ljhsvikingrobotics@gmail.com (Lukas Koziol (First time blogger))
+      <title>Day 38 - Magnum Opus</title>
+      <author>ljhsvikingrobotics@gmail.com (Marshall Mac (Fightin&#x27; Tooth and Nail))
 
       </author>
 
 
-      <link>http://ljrobotics.org/blog/the-competition-day-0-ground-zero
+      <link>http://ljrobotics.org/blog/day-38-finale
     </link>
   </item>
 
@@ -96,13 +96,13 @@
 
   <item>
 
-      <title>Day 38 - Magnum Opus</title>
-      <author>ljhsvikingrobotics@gmail.com (Marshall Mac (Fightin&#x27; Tooth and Nail))
+      <title>Competition Day 0</title>
+      <author>ljhsvikingrobotics@gmail.com (Lukas Koziol (First time blogger))
 
       </author>
 
 
-      <link>http://ljrobotics.org/blog/day-38-finale
+      <link>http://ljrobotics.org/blog/the-competition-day-0-ground-zero
     </link>
   </item>
 
@@ -252,18 +252,6 @@
 
   <item>
 
-      <title>Day 25 Car Sage</title>
-      <author>ljhsvikingrobotics@gmail.com (Tanvir Hussain (Sad without Marshall))
-
-      </author>
-
-
-      <link>http://ljrobotics.org/blog/day-25-car-sage
-    </link>
-  </item>
-
-  <item>
-
       <title>Interlude: Optimization of a Simple Power Cube Intake</title>
       <author>ljhsvikingrobotics@gmail.com (Rich Apodaca)
 
@@ -271,6 +259,18 @@
 
 
       <link>http://ljrobotics.org/blog/interlude-intake-optimization
+    </link>
+  </item>
+
+  <item>
+
+      <title>Day 25 Car Sage</title>
+      <author>ljhsvikingrobotics@gmail.com (Tanvir Hussain (Sad without Marshall))
+
+      </author>
+
+
+      <link>http://ljrobotics.org/blog/day-25-car-sage
     </link>
   </item>
 
