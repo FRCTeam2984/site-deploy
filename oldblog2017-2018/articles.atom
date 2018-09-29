@@ -22,6 +22,7 @@
     </link>
   </item>
 
+<<<<<<< HEAD
   <item>
 
       <title>WE LIVE!</title>
@@ -34,5 +35,7 @@
     </link>
   </item>
 
+=======
+>>>>>>> c15025affbcdc19a5d4e17b6673d5d780d1c0dc7
 </channel>
 </rss>
