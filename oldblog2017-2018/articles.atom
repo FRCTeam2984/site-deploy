@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>La Jolla High School Robotics</title>
+  <link>http://www.ljrobotics.org</link>
+  <description>Webpage of the Vikings</description>
+  <item>
+    <title>Link to the blog</title>
+  <guid isPermaLink="false">http:/ljrobotics.org/blog/
+  </guid>
+</item>
+  <item>
+
+      <title>Day 1 1/2 - a new season begins</title>
+      <author>ljhsvikingrobotics@gmail.com (Marshall McInerney &amp; Lukas Koziol (Boredom in Belgrade))
+
+      </author>
+
+
+      <link>http://ljrobotics.org/blog/Day1&amp;2-new-beginnings
+    </link>
+  </item>
+
+</channel>
+</rss>
