@@ -12,22 +12,6 @@
 </item>
   <item>
 
-      <title>Day 1 1/2 - a new season begins</title>
-      <author>ljhsvikingrobotics@gmail.com (Marshall McInerney &amp; Lukas Koziol (Boredom in Belgrade))
-
-      </author>
-
-
-      <link>http://ljrobotics.org/blog/Day1&amp;2-new-beginnings
-    </link>
-  </item>
-
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> fc9f129a7f27e557d6531232d586eaf20f6a6197
-  <item>
-
       <title>WE LIVE!</title>
       <author>ljhsvikingrobotics@gmail.com (Lukas &amp; Marshall (I promise not to parody Sherlock Holmes book titles))
 
@@ -38,10 +22,17 @@
     </link>
   </item>
 
-<<<<<<< HEAD
-=======
-=======
->>>>>>> c15025affbcdc19a5d4e17b6673d5d780d1c0dc7
->>>>>>> fc9f129a7f27e557d6531232d586eaf20f6a6197
+  <item>
+
+      <title>Day 1 1/2 - a new season begins</title>
+      <author>ljhsvikingrobotics@gmail.com (Marshall McInerney &amp; Lukas Koziol (Boredom in Belgrade))
+
+      </author>
+
+
+      <link>http://ljrobotics.org/blog/Day1&amp;2-new-beginnings
+    </link>
+  </item>
+
 </channel>
 </rss>
