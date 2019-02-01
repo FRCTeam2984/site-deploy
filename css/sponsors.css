@@ -5,33 +5,10 @@
 }
 
 .sponsor-logos {
-  background-color: white;
-  height: auto;
-  width: auto;
+  background-color: grey;
+  height: 60px;
 }
-.center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 80%;
-    height: 70%;
-}
-.smallerHeight {
-  height: 40%;
-}
-@media screen and (max-width: 500px) {
-.column{
-  float: left;
-  width: 100%;
-  padding: 10 px;
-}
-}
-.row: ::after{
-  content: "";
-  clear: both;
-  display: table;
 
-}
 article .main address {
   margin-bottom: 1em;
   background-color: #d0ffd0;
