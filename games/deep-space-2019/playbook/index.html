@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+
+    
+
+    <!-- bootstrap styling -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="/css/reset.css">
+    <link rel="stylesheet" href="/css/global.css">
+
+        <link rel="stylesheet" href="/css/text.css">
+
+
+    <link rel="icon" type="image/png" href="/images/favicon.png">
+
+      <title>Vikings Robotics - FRC Team 2984</title>
+  </head>
+  <body>
+    <header>
+      <h1>
+        <span class="internal-logo">
+          <img src="/images/favicon.png" alt="Viking Robotics">
+        </span>
+        <a href="/">Vikings Robotics
+
+        Team 2984</a>
+        <span class="internal-logo">
+          <img src="/images/favicon.png" alt="Viking Robotics">
+        </span>
+      </h1>
+      <nav>
+        <ol>
+          <li><a href="/about-us/">About Us</a></li>
+          <li><a href="/blog/">Blog</a></li>
+          <li><a href="/community/">Community Outreach</a></li>
+          <li><a href="/supporters/">Supporters</a></li>
+          <li><a href="/resources/">Resources</a></li>
+          <li><a href="/calendar/">Calendar</a></li>
+          <!--<li><a href="/team/">Team</a></li>-->
+        </ol>
+      </nav>
+    </header>
+    <main>
+          <article>
+      <header>
+            <h1>Power Up Playbook</h1>
+      </header>
+      <div class="main">
+        <p>This playbook illustrates what strategies we can implement during the competition. Keep in mind that these strategies are kept vague because we cannot account for every situation they are meant as a template for a match that can be altered given the in-game experience.</p>
+<p>It is assumed that all robots can push Cubes into the Exchange and score them. It is assumed that all robots can put cubes on the Switch if they can put cubes on the Scale.</p>
+<p>Key:</p>
+<p>C : Control</p>
+<p>S : Scale</p>
+<p>Sw : Switch</p>
+<p>Ex : Exchange</p>
+<p>B : Block</p>
+<p>E : Enemy</p>
+<p>F : Friend</p>
+<p>(CSw) : Control Switch if Friends cannot do it in Autonomous</p>
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>Alliance Situation</th>
+<th>Details</th>
+<th>Diagram</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Power Play</td>
+<td>E/F cannot do S/Sw</td>
+<td>Auto: CSw. Tele: CS then BEEx</td>
+<td><img src="/images/playbook/play-1.jpg" alt="Play 1"></td>
+</tr>
+<tr>
+<td>One True Combat</td>
+<td>E can do Sw (not S), F cannot do S/Sw</td>
+<td>Auto: CSw. Tele: CS then CESw then CSw</td>
+<td><img src="/images/playbook/play-2.jpg" alt="Play 2"></td>
+</tr>
+<tr>
+<td>Sadness</td>
+<td>E can do S/Sw, F cannot do S/Sw</td>
+<td>Auto: CSw. Tele: CS then CSw</td>
+<td><img src="/images/playbook/play-3.jpg" alt="Play 3"></td>
+</tr>
+<tr>
+<td>Helpful but could be Better</td>
+<td>E can do S/Sw, F can do Sw (not S)</td>
+<td>Auto: CS (CSw). Tele: CS then CESw</td>
+<td><img src="/images/playbook/play-4.jpg" alt="Play 4"></td>
+</tr>
+<tr>
+<td>Triad</td>
+<td>E/F can do Sw, E/F cannot do S</td>
+<td>Auto: CS (CSw). Tele: CESw then BEEx</td>
+<td><img src="/images/playbook/play-5.jpg" alt="Play 5"></td>
+</tr>
+<tr>
+<td>Older Brother</td>
+<td>E cannot do S/Sw, F can do Sw (not S)</td>
+<td>Auto: CS (CSw). Tele: CS then CESw then BEEx</td>
+<td><img src="/images/playbook/play-6.jpg" alt="Play 6"></td>
+</tr>
+<tr>
+<td>Opaaaaaa</td>
+<td>E cannot do S/Sw, F can do S/Sw</td>
+<td>Auto: CS (*CSw). Tele: CSw then BEEx</td>
+<td><img src="/images/playbook/play-7.jpg" alt="Play 7"></td>
+</tr>
+<tr>
+<td>Cool Uncle</td>
+<td>E can do Sw (not S), F can do Sw/S</td>
+<td>Auto: CS (*CSw) Tele: CESw then CSw</td>
+<td><img src="/images/playbook/play-8.jpg" alt="Play 8"></td>
+</tr>
+<tr>
+<td>Gladiator Arena</td>
+<td>E/F can do S/Sw</td>
+<td>Auto: CS (*CSw). Tele: CS then CESw</td>
+<td><img src="/images/playbook/play-9.jpg" alt="Play 9"></td>
+</tr>
+</tbody>
+</table>
+
+      </div>
+    </article>
+
+
+      <!--js to fix formatting -->
+      <script src="/js/table.js"></script>
+    </main>
+
+    <footer>
+      <address>
+        &copy;2017-2018&nbsp;Vikings
+      </address>
+      <address>
+        750 Nautilus St., La Jolla, CA 92037
+      </address>
+      <address>
+        <a href="mailto:ljhsvikingrobotics@gmail.com">ljhsvikingrobotics@gmail.com</a>
+      </address>
+      <ul class="social">
+        <li>
+          <a href="https://github.com/FRCTeam2984"><img src="/images/octo-cat.jpg" alt="Github"></a>
+          <a href="https://discordapp.com/invite/RshDdxa"><img src="/images/discordlogo.jpg" alt="Discord"></a>
+          <a href="https://thefoundationoflajollahigh.formstack.com/forms/academic_robotics_team"><img src="/images/theBigDonateButton.png" alt="Donate"></a>
+        </li>
+      </ul>
+    
+    </footer>
+    
+  </body>
+</html>
